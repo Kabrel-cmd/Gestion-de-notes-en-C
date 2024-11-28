@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1718664157 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\application.c
+	<stdio.h>
+	<string.h>
+	"metier.h"
+	"application.h"
+
+1718663417 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\application.h
+	"metier.h"
+
+1718664621 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\metier.h
+
+1718663204 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\metier.c
+	<stdio.h>
+	<stdlib.h>
+	"metier.h"
+
+1718663418 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"presentation.h"
+	"application.h"
+	"metier.h"
+
+1718661444 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\presentation.h
+	<stdbool.h>
+	"metier.h"
+
+1718664851 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"presentation.h"
+
+1719959318 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"metier.h"
+	"application.h"
+
+1719788193 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.h
+
+1719873778 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.h
+	"metier.h"
+
+1719708687 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"presentation.h"
+
+1718899394 c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.h
+	<stdbool.h>
+	"metier.h"
+
+1719959318 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.c
+	<stdio.h>
+	<stdlib.h>
+	"metier.h"
+
+1719958528 source:c:\users\hp\onedrive\documents\informatiques\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"presentation.h"
+	"application.h"
+	"metier.h"
+
+1721312638 source:c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"metier.h"
+	"application.h"
+
+1721138355 c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.h
+
+1721133706 c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.h
+	"metier.h"
+
+1720658063 source:c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"presentation.h"
+
+1718899394 c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.h
+	<stdbool.h>
+	"metier.h"
+
+1721313415 source:c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.c
+	<stdio.h>
+	<stdlib.h>
+	"metier.h"
+
+1721313547 source:c:\users\hp\onedrive\documents\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"presentation.h"
+	"application.h"
+	"metier.h"
+
+1732733289 source:c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"metier.h"
+	"application.h"
+
+1732732967 c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.h
+
+1724597779 c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\application.h
+	"metier.h"
+
+1732733224 source:c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"presentation.h"
+
+1723082599 c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.h
+	<stdbool.h>
+	"metier.h"
+
+1732733289 source:c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\metier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"metier.h"
+
+1732391307 source:c:\users\hp\onedrive\documents\prepa 1\informatiques 1 et 2\programme en langage c\tp gestion des notes en c\tp gestion des notes en c\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"presentation.h"
+	"application.h"
+	"metier.h"
+
